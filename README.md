@@ -1,10 +1,10 @@
 # UAS-PEMWEB
-Nama : Muhammad Daffa Abiyyu Muhana
-NIM : 121140222
-Kelas : RA
+Nama : Muhammad Daffa Abiyyu Muhana <br/>
+NIM : 121140222 <br/>
+Kelas : RA <br/>
 
-Bagian Bonus - Hosting aplikasi web
-Link web yang sudah di hosting: https://121140222.000webhostapp.com/
+Bagian Bonus - Hosting aplikasi web <br/>
+Link web yang sudah di hosting: https://121140222.000webhostapp.com/ <br/>
 
 1. Langkah-langkah untuk menghosting web. -> membuat akun di 000webhost, kemudian buat nama project/web, selanjutnya upload file website, setelah itu buat database, kemudian kita sesuaikan dengan kebutuhan.
 2. Pilih penyedia hosting web yang cocok, beserta alasan anda. -> 000webhost, dikarenakan gratis dan tidak terlalu sulit untuk menghosting.
